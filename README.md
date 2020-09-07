@@ -1,4 +1,5 @@
-### Hi there 👋
+
+嗨，我是兴趣是宅在宿舍打游戏，喜欢打羽毛球，自学中，比不了很多大佬。
 
 <!--
 **theBookofRabbit/theBookofRabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
