@@ -1,7 +1,5 @@
 
-嗨,java后台开发的卑微仔，有师傅技术传授下嘛？~
-个人博客：https://www.cnblogs.com/tuzidewangblog/
-（不常写就是了🤣）
+~毛都没有
 
 <!--
 **theBookofRabbit/theBookofRabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
